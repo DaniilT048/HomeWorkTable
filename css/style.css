@@ -1,0 +1,49 @@
+.btable{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+
+.btable, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.td40px{
+    width: 40px;
+}
+.yellow{
+    width: 30px;
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+    height: 80px;
+}
+
+.yellowHeight{
+    height: 35px;
+    background-color: yellow;
+}
+
+.black30{
+    background-color: black;
+    width: 30px;
+}
+.yellowFirst{
+    background-color: yellow;
+}
+
+.blue50{
+    background-color: blue;
+    width: 50px;
+}
+
+.redFirst{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
